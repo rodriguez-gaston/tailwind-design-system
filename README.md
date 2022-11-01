@@ -212,4 +212,4 @@ module.exports = {
 }
 ```
 
-In case we want to keep also de Tailwind colors, we can move the colors object inside the `extend: {}`
+In case we want to keep also the Tailwind colors, we can move the colors object inside the `extend: {}`
